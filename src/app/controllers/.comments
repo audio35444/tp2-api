@@ -1,0 +1,17 @@
+recibe llamada, valida parametors y pas aa servicio
+
+
+no early return
+
+if err == nil{
+  if err1 == nil {
+
+  }
+}
+
+
+early return
+
+if err != nil {
+  return nil,err
+}
